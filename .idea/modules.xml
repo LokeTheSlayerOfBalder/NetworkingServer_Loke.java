@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Networklab.java.iml" filepath="$PROJECT_DIR$/Networklab.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkingServer_Loke.iml" filepath="$PROJECT_DIR$/NetworkingServer_Loke.iml" />
     </modules>
   </component>
 </project>
